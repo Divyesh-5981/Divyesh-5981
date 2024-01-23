@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **React Native, Next.**
+- 🌱 I’m currently learning **React Native.**
 
 - 📝 I regularly read one article on [https://medium.com/](https://medium.com/)
 
