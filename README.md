@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **React Native, Next.**
 
-- 📝 I regularly read one articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly read one article on [https://medium.com/](https://medium.com/)
 
 - 📫 How to reach me **divyeshkumbhani8@gmail.com**
 
