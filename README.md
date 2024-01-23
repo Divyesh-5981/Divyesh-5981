@@ -39,3 +39,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyesh-5981&show_icons=true&locale=en&layout=compact" alt="divyesh-5981" /></p>
 
 <br/>
+<hr/>
+<h3 align="left">📊 My Github Stats:</h3><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyesh-5981&show_icons=true&locale=en" alt="divyesh-5981" /></p>
