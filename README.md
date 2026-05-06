@@ -70,8 +70,11 @@ I'm a Software Developer I at **Zuru Tech (Ahmedabad)** with 3+ years of experie
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyesh-5981&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-5981&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Divyesh-5981&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Divyesh-5981&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Divyesh-5981&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
