@@ -1,44 +1,79 @@
-<p align="right" id="top"> <img src="https://komarev.com/ghpvc/?username=divyesh-5981&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh-5981" /> </p>
+<h1 align="center">Hi, I'm Divyesh 👋</h1>
 
-<h1 align="start">Hi, there. 👋</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7CF767&background=7CFF3700&random=false&width=501&lines=A+passionate+frontend+developer+from+India;Javascript+Enthusiast;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
-
-<img alt="Coding"  align="right" width="400"
-  src="https://res.cloudinary.com/practicaldev/image/fetch/s--rwfbkVgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x88nwrvshk9eqt61g9bd.png"/>
-
-
-- 🔭 I’m currently working on **portfolio**
-
-- 🌱 I’m currently learning **React Native.**
-
-- 📝 I regularly read one article on [https://medium.com/](https://medium.com/)
-
-- 📫 How to reach me **divyeshkumbhani8@gmail.com**
-
-- ♟️ let's play Chess on [https://www.chess.com/](https://www.chess.com/)
-
-<br/>
-<hr/>
-<a href="#"><h3 align="left">Connect with me:</h3></a>
-<p align="left">
-<a href="https://linkedin.com/in/divyesh kumbhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyesh kumbhani" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/divyesh_kumbhani_5981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyesh_kumbhani_5981" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/divyeshkumbhani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyeshkumbhani1" height="30" width="40" /></a>&nbsp;
-<a href="https://www.leetcode.com/divyesh_kumbhani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyesh_kumbhani07" height="30" width="40" /></a>&nbsp;
+<p align="center">
+  <b>Software Engineer · React · Next.js · Node.js · Design Systems</b><br/>
+  Building scalable web apps and headless UI libraries at <a href="https://zuru.tech">Zuru Tech</a>.
 </p>
 
-<br/>
-<hr/>
-<a href="#"><h3 align="left">⚒️ Languages and Tools: ⚒️</h3></a>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp; </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp; <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp; </p>
+<p align="center">
+  <a href="https://divyesh-codes.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/divyesh-kumbhani-a31ba4214/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:divyeshkumbhani8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.hackerrank.com/divyeshkumbhani1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://leetcode.com/divyesh_kumbhani07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
 
+---
 
-<br/>
-<hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyesh-5981&show_icons=true&locale=en&layout=compact" alt="divyesh-5981" /></p>
+### About me
 
-<br/>
-<hr/>
-<a href="#"><h3 align="left">📊 My Github Stats:</h3></a><br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyesh-5981&show_icons=true&locale=en" alt="divyesh-5981" /></p>
+I'm a Software Developer I at **Zuru Tech (Ahmedabad)** with 3+ years of experience shipping production frontends and full-stack features. My day-to-day is split between a Manufacturing Execution System (MES) and the internal headless UI library that powers our micro-frontends.
+
+- 🏗️ Architected a Radix-inspired **headless UI library** and a Tailwind-based design system used across multiple internal services.
+- ⚡ Modernized enterprise dashboards by refactoring legacy class components to React Hooks — **~20% smaller bundles, ~40% less maintenance work**.
+- 🛠️ Built and optimized **Node.js REST APIs** and complex PostgreSQL queries backing high-traffic MES features.
+- 🤖 Exploring agentic AI — currently building [**Browser Brain**](https://github.com/Divyesh-5981/browser-brain), a fully on-device assistant that runs Gemma 4 in the browser via WebGPU.
+
+---
+
+### 🧰 Tech I work with
+
+**Frontend**
+`React` `Next.js` `React Native` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Radix Primitives` `Ant Design`
+
+**Backend & Data**
+`Node.js` `Express.js` `REST` `GraphQL` `PostgreSQL` `MongoDB`
+
+**State & Data Flow**
+`TanStack Query` `Redux Toolkit` `React Context`
+
+**Architecture**
+`Headless UI` `Component Libraries` `Design Systems` `Micro-frontends` `Clean Architecture`
+
+**Tooling**
+`Git` `Nx` `Turborepo` `Vite` `Webpack` `Babel`
+
+---
+
+### 🚀 Featured projects
+
+**[browser-brain](https://github.com/Divyesh-5981/browser-brain)** — Chrome extension that runs Google's **Gemma 4** locally via **WebGPU**. Reads pages, clicks elements, fills forms, and executes JavaScript — with zero data leaving your machine. Built with WXT, `@huggingface/transformers`, and ONNX Runtime Web. `TypeScript`
+
+**[tmdb-clone-react](https://github.com/Divyesh-5981/tmdb-clone-react)** — Movie discovery app inspired by The Movie Database, built with React and the TMDB API. `JavaScript` `React`
+
+**[tech-news-react-app](https://github.com/Divyesh-5981/tech-news-react-app)** — A tech news reader pulling from a live news API with category filtering and responsive UI. `JavaScript` `React`
+
+**[weather-app-react](https://github.com/Divyesh-5981/weather-app-react)** — Interactive weather dashboard powered by the OpenWeather API. `JavaScript` `React`
+
+> 🔒 Most of my production work (MES, design system, Zuru UI library) lives in private repos — happy to walk through architecture and code on request.
+
+---
+
+### 🏆 Certifications & highlights
+
+- **Google AI Professional Certificate** — Coursera
+- **Foundations of Prompt Engineering** — AWS
+- **FinWell Hackathon 2025** — 7th place, Hackathon Raptors
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyesh-5981&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyesh-5981&layout=compact&theme=default&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><i>It's all talk until the code runs.</i></p>
