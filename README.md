@@ -30,7 +30,7 @@ I'm currently deepening my backend expertise with **Java, Spring Boot, Hibernate
 
 ### 🚀 Featured Projects
 
-**[MES — Manufacturing Execution System](#)**
+**MES — Manufacturing Execution System**
 Enterprise Manufacturing Execution System for production and warehouse operations. Contributed to full-stack features across **Java/Spring Boot backend services and React/Next.js applications**.
 
 **MES UI Kit — Design System**
@@ -70,6 +70,6 @@ Developed centralized **User and Organization management** modules for an enterp
 
 ### 📫 Connect With Me
 
-[LinkedIn](#) · [Portfolio](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/divyeshkumbhani/) · [Portfolio](https://divyesh-codes.netlify.app/) · [GitHub](https://github.com/Divyesh-5981)
 
 > Most of my production work is maintained in private repositories. I'm happy to discuss the architecture, technical decisions, and challenges behind these systems.
