@@ -70,6 +70,6 @@ Developed centralized **User and Organization management** modules for an enterp
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/divyeshkumbhani/) · [Portfolio](https://divyesh-codes.netlify.app/) · [GitHub](https://github.com/Divyesh-5981)
+[LinkedIn](https://www.linkedin.com/in/divyeshkumbhani/) · [Portfolio](https://divyesh-portfolio-xi.vercel.app/) · [GitHub](https://github.com/Divyesh-5981)
 
 > Most of my production work is maintained in private repositories. I'm happy to discuss the architecture, technical decisions, and challenges behind these systems.
